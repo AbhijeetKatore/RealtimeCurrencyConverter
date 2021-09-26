@@ -6,8 +6,6 @@ import javax.swing.*;
 
 class ConverterUI extends converterMain  {
 
-	
-	
 	protected void mainUI() {
 		
 		try {
@@ -59,7 +57,6 @@ class ConverterUI extends converterMain  {
 	
 
 	public static void main(String[] args) {
-		
 		
 		
 		ConverterUI obj = new ConverterUI();
